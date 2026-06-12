@@ -1,0 +1,13 @@
+Class,MondayPeriod1,MondayPeriod2,MondayPeriod3,MondayPeriod4,MondayPeriod5,TuesdayPeriod1,TuesdayPeriod2,TuesdayPeriod3,TuesdayPeriod4,TuesdayPeriod5,WednesdayPeriod1,WednesdayPeriod2,WednesdayPeriod3,WednesdayPeriod4,WednesdayPeriod5,ThursdayPeriod1,ThursdayPeriod2,ThursdayPeriod3,ThursdayPeriod4,ThursdayPeriod5,FridayPeriod1,FridayPeriod2,FridayPeriod3,FridayPeriod4,FridayPeriod5
+1,Maths,Science,Art,English,PE,English,Maths,Science,History,Art,PE,Maths,English,Science,Art,History,Art,Science,PE,Maths,English,Maths,Science,PE,Art
+2,Science,Maths,English,Art,PE,Maths,Science,Maths,History,History,History,Maths,PE,English,Science,Art,Science,History,PE,History,Maths,English,Art,PE,Science
+3,Art,English,Maths,PE,Science,PE,Maths,Science,PE,PE,Maths,English,PE,Science,Art,Science,History,History,English,History,Science,Maths,PE,PE,PE
+4,English,Maths,PE,Art,Science,Art,English,Maths,History,History,Science,English,Maths,Art,PE,PE,History,Science,PE,PE,PE,PE,Art,English,PE
+5,PE,English,Maths,Art,Science,History,History,PE,History,Maths,Art,PE,Science,PE,PE,Maths,PE,Art,PE,Maths,PE,Art,PE,Maths,PE
+6,Maths,Science,English,PE,Art,History,Art,Art,PE,PE,English,Maths,Maths,PE,Science,Maths,Maths,Science,Maths,Maths,English,Science,PE,Science,PE
+7,Science,PE,Art,Maths,English,Science,History,History,PE,English,History,History,PE,PE,Science,English,PE,PE,English,PE,PE,PE,Science,PE,PE
+8,History,Maths,PE,Science,Art,English,Maths,PE,PE,Science,Science,Art,Science,PE,Art,PE,English,Maths,English,Science,Art,Art,Art,Art,Science
+9,PE,Science,Maths,English,Art,PE,English,PE,PE,PE,PE,PE,PE,PE,Science,English,English,PE,PE,Art,English,PE,English,PE,English
+10,Maths,Art,Science,PE,English,History,Maths,Art,Maths,History,Art,Maths,Art,Science,PE,Art,History,Maths,Science,PE,Maths,Science,PE,Science,Maths
+11,English,PE,Maths,Science,History,PE,Science,Science,Art,Science,Science,Science,PE,PE,Science,Science,Maths,PE,PE,Art,Science,Maths,Science,History,Art
+12,Science,Art,PE,Maths,English,Maths,PE,PE,History,Maths,PE,Art,Science,Art,PE,English,PE,Art,Maths,PE,Art,Maths,Art,Science,Science
