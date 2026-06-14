@@ -87,5 +87,6 @@ python main.py
 
 ## Author
 
-Bhautik
-Computer Science Student
+Bhautik Vadhiya
+
+
